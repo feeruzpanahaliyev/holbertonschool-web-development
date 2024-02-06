@@ -1,5 +1,6 @@
 This is the first task of Full Stack February cohort of Holberton School
-We have been given a figma page. According to this design we should write it's html
+We have been given a figma page.
+According to this design we should write it's html
 
 
 
